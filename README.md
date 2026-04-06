@@ -22,7 +22,7 @@ Real-time messaging API built with ASP.NET Core 8 and SignalR
 | Database | PostgreSQL + Entity Framework Core |
 | Auth | JWT Bearer Tokens |
 | File Storage | Supabase |
-| Media | Cloudinary |
+
 
 ---
 
@@ -86,9 +86,6 @@ Connect to `/hubs/chat` — all events are pushed server → client in real time
 
 ---
 
-## Frontend
-
-Built with Angular 18 — repo coming soon.
 
 ---
 
