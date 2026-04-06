@@ -1,0 +1,17 @@
+D:\C#\seesharp\Xabarchi\Xabarchi.Infrastructure\bin\Debug\net8.0\Xabarchi.Infrastructure.deps.json
+D:\C#\seesharp\Xabarchi\Xabarchi.Infrastructure\bin\Debug\net8.0\Xabarchi.Infrastructure.runtimeconfig.json
+D:\C#\seesharp\Xabarchi\Xabarchi.Infrastructure\bin\Debug\net8.0\Xabarchi.Infrastructure.dll
+D:\C#\seesharp\Xabarchi\Xabarchi.Infrastructure\bin\Debug\net8.0\Xabarchi.Infrastructure.pdb
+D:\C#\seesharp\Xabarchi\Xabarchi.Infrastructure\obj\Debug\net8.0\Xabarchi.Infrastructure.csproj.AssemblyReference.cache
+D:\C#\seesharp\Xabarchi\Xabarchi.Infrastructure\obj\Debug\net8.0\Xabarchi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\seesharp\Xabarchi\Xabarchi.Infrastructure\obj\Debug\net8.0\Xabarchi.Infrastructure.AssemblyInfoInputs.cache
+D:\C#\seesharp\Xabarchi\Xabarchi.Infrastructure\obj\Debug\net8.0\Xabarchi.Infrastructure.AssemblyInfo.cs
+D:\C#\seesharp\Xabarchi\Xabarchi.Infrastructure\obj\Debug\net8.0\Xabarchi.Infrastructure.csproj.CoreCompileInputs.cache
+D:\C#\seesharp\Xabarchi\Xabarchi.Infrastructure\obj\Debug\net8.0\Xabarchi.Infrastructure.dll
+D:\C#\seesharp\Xabarchi\Xabarchi.Infrastructure\obj\Debug\net8.0\refint\Xabarchi.Infrastructure.dll
+D:\C#\seesharp\Xabarchi\Xabarchi.Infrastructure\obj\Debug\net8.0\Xabarchi.Infrastructure.pdb
+D:\C#\seesharp\Xabarchi\Xabarchi.Infrastructure\obj\Debug\net8.0\Xabarchi.Infrastructure.genruntimeconfig.cache
+D:\C#\seesharp\Xabarchi\Xabarchi.Infrastructure\obj\Debug\net8.0\ref\Xabarchi.Infrastructure.dll
+D:\C#\seesharp\Xabarchi\Xabarchi.Infrastructure\bin\Debug\net8.0\Xabarchi.Domain.dll
+D:\C#\seesharp\Xabarchi\Xabarchi.Infrastructure\bin\Debug\net8.0\Xabarchi.Domain.pdb
+D:\C#\seesharp\Xabarchi\Xabarchi.Infrastructure\obj\Debug\net8.0\Xabarchi.0DB88364.Up2Date

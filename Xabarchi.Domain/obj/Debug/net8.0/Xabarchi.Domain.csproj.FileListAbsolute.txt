@@ -1,0 +1,14 @@
+D:\C#\seesharp\Xabarchi\Xabarchi.Domain\bin\Debug\net8.0\Xabarchi.Domain.deps.json
+D:\C#\seesharp\Xabarchi\Xabarchi.Domain\bin\Debug\net8.0\Xabarchi.Domain.runtimeconfig.json
+D:\C#\seesharp\Xabarchi\Xabarchi.Domain\bin\Debug\net8.0\Xabarchi.Domain.dll
+D:\C#\seesharp\Xabarchi\Xabarchi.Domain\bin\Debug\net8.0\Xabarchi.Domain.pdb
+D:\C#\seesharp\Xabarchi\Xabarchi.Domain\obj\Debug\net8.0\Xabarchi.Domain.csproj.AssemblyReference.cache
+D:\C#\seesharp\Xabarchi\Xabarchi.Domain\obj\Debug\net8.0\Xabarchi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\seesharp\Xabarchi\Xabarchi.Domain\obj\Debug\net8.0\Xabarchi.Domain.AssemblyInfoInputs.cache
+D:\C#\seesharp\Xabarchi\Xabarchi.Domain\obj\Debug\net8.0\Xabarchi.Domain.AssemblyInfo.cs
+D:\C#\seesharp\Xabarchi\Xabarchi.Domain\obj\Debug\net8.0\Xabarchi.Domain.csproj.CoreCompileInputs.cache
+D:\C#\seesharp\Xabarchi\Xabarchi.Domain\obj\Debug\net8.0\Xabarchi.Domain.dll
+D:\C#\seesharp\Xabarchi\Xabarchi.Domain\obj\Debug\net8.0\refint\Xabarchi.Domain.dll
+D:\C#\seesharp\Xabarchi\Xabarchi.Domain\obj\Debug\net8.0\Xabarchi.Domain.pdb
+D:\C#\seesharp\Xabarchi\Xabarchi.Domain\obj\Debug\net8.0\Xabarchi.Domain.genruntimeconfig.cache
+D:\C#\seesharp\Xabarchi\Xabarchi.Domain\obj\Debug\net8.0\ref\Xabarchi.Domain.dll
